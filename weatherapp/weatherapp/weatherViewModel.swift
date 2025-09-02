@@ -2,7 +2,6 @@
 //  weatherViewModel.swift
 //  weatherapp
 //
-//  Created by Pavneet Cheema on 1/26/25.
 //
 
 import Foundation
